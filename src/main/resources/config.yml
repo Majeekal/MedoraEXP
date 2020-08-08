@@ -1,0 +1,18 @@
+# Exp gained from breaking block
+exp-per-block: 2
+
+# Prefix for commands and messages
+chat-prefix: "&7[&5MedoraEXP&7]"
+
+# The worlds that it is enabled in
+worlds:
+  - "world"
+  - "world_nether"
+  - "world_the_end"
+
+# PERMISSIONS
+# "medora.help" - /medora help and /medora
+# "medora.reload" - /medora reload
+
+# UPDATED VERSIONS
+# https://github.com/Majeekal/MedoraEXP

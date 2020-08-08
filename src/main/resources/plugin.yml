@@ -1,0 +1,9 @@
+name: MedoraEXP
+version: ${project.version}
+main: me.majeek.medoraexp.MedoraEXP
+authors: [Majeek]
+commands:
+  medora:
+    description: Main medora command.
+    permission: "medora.help"
+    permission-message: "Unknown command. Type \"/help\" for help."
