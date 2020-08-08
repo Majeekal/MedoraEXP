@@ -22,8 +22,6 @@ public final class MedoraEXP extends JavaPlugin {
 
         // Configs
         saveDefaultConfig();
-        getConfig().options().copyDefaults(true);
-        saveConfig();
 
         // Managers
         this.configManager = new ConfigManager(this);
